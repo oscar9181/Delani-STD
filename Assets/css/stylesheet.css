@@ -1,0 +1,61 @@
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+.container1 p{
+    color: aliceblue;
+}
+body{
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.container1{
+    background-image: url(/Assets/Background/h_img.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-clip:border-box;padding: 0px 600px;
+    
+}
+h3{
+    color: black;
+}
+body {
+    color: black;
+}
+.content{
+    background-image: url(/Assets/Background/s_image.jpg);
+    background-size: cover;
+    color: aliceblue;
+    background-clip: border-box;padding: 100px;
+  }
+
+
+
+.hide{
+    display: none;
+}
+
+.show#design{
+    float: left 5px
+}
+.show#product{
+    float: center 5px
+}
+.show#development{
+    float: right 5px;
+}
+h7{
+    color: aliceblue;
+    padding-top: 20px;
+}
+#block{
+    background-image: url(/Assets/Background/c_image.jpg);
+    background-clip: border-box;padding: 300px;
+    background-repeat: no-repeat;
+    
+}
