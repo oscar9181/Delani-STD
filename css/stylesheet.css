@@ -28,7 +28,7 @@ body {
     color: black;
 }
 .content{
-    background-image: url(/Assets/Background/s_image.jpg);
+    background-image: url(../Assets/Background/s_image.jpg);
     background-size: cover;
     color: aliceblue;
     background-clip: border-box;padding: 100px;
