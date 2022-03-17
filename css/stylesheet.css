@@ -58,4 +58,11 @@ h7{
     background-clip: border-box;padding: 300px;
     background-repeat: no-repeat;
     
+    
+}
+input{
+    background-color: transparent;
+}
+textarea{
+    background-color: transparent;
 }
