@@ -63,3 +63,19 @@ form .button{
     position: absolute;
     left: 45%;
 }
+.text{
+    color: rgb(194, 4, 4);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: none;
+    
+
+}
+
+.work{
+    position: relative;
+}
+.col-md-3{
+    position: relative;
+}
