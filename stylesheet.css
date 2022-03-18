@@ -14,7 +14,7 @@ body{
 
 
 .container1{
-    background-image: url(/Background/h_img.jpg);
+    background-image: url(images/h_img.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body {
     color: black;
 }
 .content{
-    background-image: url(/Background/s_image.jpg);
+    background-image: url(images/s_image.jpg);
     background-size: cover;
     color: aliceblue;
     background-clip: border-box;padding: 100px;
@@ -54,7 +54,7 @@ h7{
     padding-top: 20px;
 }
 #block{
-    background-image: url(/Background/c_image.jpg);
+    background-image: url(images/c_image.jpg);
     background-clip: border-box;padding: 300px;
     background-repeat: no-repeat;
     
